@@ -1,7 +1,6 @@
 # Supabase + Prisma + tRPC Todos API
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#license)  
-[![Node.js CI](https://img.shields.io/github/actions/workflow/status/your-username/supabase-trpc-prisma-demo/node.js.yml?branch=main)](https://github.com/your-username/supabase-trpc-prisma-demo/actions)
 
 > A minimal proof-of-concept demonstrating how to build a fully-typed, end-to-end **Todos** service with Supabase (Postgres), Prisma ORM, and tRPC.
 
