@@ -21,5 +21,5 @@ app.use(
 );
 
 app.listen(port, () => {
-  console.log(`🚀 tRPC server listening at http://localhost:${port}/trpc`);
+  console.log(`tRPC server listening at http://localhost:${port}/trpc`);
 });
